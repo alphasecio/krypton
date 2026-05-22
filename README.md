@@ -4,6 +4,8 @@
 
 Krypton inventories cryptographic assets across your Google Cloud environment and identifies configurations that are not ready for the post-quantum era. It produces a self-contained HTML report and a persistent SQLite database for trend tracking.
 
+![Krypton PQC Readiness Report](/static/krypton-pqc.png)
+
 
 ## What it scans (cryptographic assets)
 
